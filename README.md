@@ -3,12 +3,13 @@ Javascript project for Web Laboratory (7th semester). These DEMO can be accessed
 
 ------------------------------------------------
 
-- Sample Input 1 [Correct Output]:
-...USN: 1BY18CS045 
-...Semester: 2
-- Sample Input 1 [Incorrect Output]:
-...USN: 1BY18CS045 
-...Semester: 5
+-Sample Input 1 [Correct Output]:
+>USN: 1BY18CS045 
+>Semester: 2
+
+-Sample Input 1 [Incorrect Output]:
+>USN: 1BY18CS045 
+>Semester: 5
 
 ------------------------------------------------
 
